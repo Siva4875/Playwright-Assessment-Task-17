@@ -1,1 +1,3 @@
-# Playwright-Assessment-Task-17
+Playwright-Assessment-Task-17
+
+This dashboard_page.py, login_page.py, conftest.py and test_login.py file contains the Assessment Task no 17, for the concept of Selenium Microsoft Python Playwright and Pytest Framework to perform operation for both positive and negative test cases answer code. Also the report.html file are created while the execution of the test_login.py program, remaining file of report.html_result.png, test_login_result1.png, test_login_result2.png, test_login_result3.png and test_login_result4.png are the screenshot capture reference when test_login.py code is executed. (Selenium Task - Playwright Framework Task)
